@@ -31,7 +31,6 @@ export default {
         quantity: this.quantity
       }
 
-      console.log(order)
       this.quantity = 0
     }
   }
